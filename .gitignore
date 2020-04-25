@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+api/__pycache__
+todo_drf/.DS_Store
+__pycache__/
